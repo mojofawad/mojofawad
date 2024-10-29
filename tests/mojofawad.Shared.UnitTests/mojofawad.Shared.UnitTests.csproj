@@ -20,4 +20,8 @@
         <Using Include="Xunit"/>
     </ItemGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\..\src\mojofawad.Shared.Domain\mojofawad.Shared.Domain.csproj" />
+    </ItemGroup>
+
 </Project>
